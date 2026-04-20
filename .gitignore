@@ -1,5 +1,9 @@
 # Project exclude paths
 /.gradle/
+/\.gradle-user-home/
+/\.idea/
 /app/build/
 /app/build/intermediates/javac/debug/classes/
 /build/
+/local.properties
+/*.iml
