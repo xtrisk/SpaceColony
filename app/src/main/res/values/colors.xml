@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bg_dark">#06111F</color>
+    <color name="bg_elevated">#0A1728</color>
+    <color name="card_bg">#10243A</color>
+    <color name="card_bg_alt">#15314F</color>
+    <color name="card_bg_highlight">#1B4267</color>
+    <color name="divider">#214C74</color>
+    <color name="stroke">#2D628E</color>
+
+    <color name="text_primary">#F7FBFF</color>
+    <color name="text_secondary">#B7CCE1</color>
+    <color name="text_tertiary">#7F9AB5</color>
+
+    <color name="accent">#7CFFB2</color>
+    <color name="accent_dark">#2DD67B</color>
+    <color name="btn_secondary">#18314B</color>
+
+    <color name="color_pilot">#69C9FF</color>
+    <color name="color_engineer">#FFD65C</color>
+    <color name="color_medic">#7CFFB2</color>
+    <color name="color_scientist">#BA9BFF</color>
+    <color name="color_soldier">#FF6E7B</color>
+
+    <color name="success">#7CFFB2</color>
+    <color name="warning">#FFD65C</color>
+    <color name="danger">#FF6E7B</color>
+
+    <color name="hero_top">#184E87</color>
+    <color name="hero_bottom">#0B1D31</color>
+    <color name="surface_top">#14304D</color>
+    <color name="surface_bottom">#0E2033</color>
+    <color name="screen_top">#071526</color>
+    <color name="screen_mid">#081A2E</color>
+    <color name="screen_bottom">#030913</color>
+    <color name="metric_green">#102B2A</color>
+    <color name="metric_blue">#112B45</color>
+    <color name="metric_gold">#32280D</color>
+    <color name="metric_red">#36151B</color>
+
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>

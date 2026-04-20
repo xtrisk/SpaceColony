@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Space Colony</string>
+
+    <!-- Main screen -->
+    <string name="btn_recruit">Recruit Crew Member</string>
+    <string name="btn_quarters">Quarters</string>
+    <string name="btn_simulator">Simulator</string>
+    <string name="btn_mission_control">Mission Control</string>
+    <string name="btn_medbay">Medbay</string>
+    <string name="btn_stats">Statistics</string>
+
+    <!-- Recruit screen -->
+    <string name="hint_crew_name">Enter crew member name</string>
+    <string name="btn_create">Recruit</string>
+    <string name="btn_cancel">Cancel</string>
+
+    <!-- Mission control -->
+    <string name="btn_launch">Launch Mission</string>
+    <string name="btn_attack">Attack</string>
+    <string name="btn_defend">Defend</string>
+    <string name="btn_special">Special</string>
+    <string name="btn_done">Done</string>
+
+    <!-- Specializations -->
+    <string name="spec_pilot">Pilot</string>
+    <string name="spec_engineer">Engineer</string>
+    <string name="spec_medic">Medic</string>
+    <string name="spec_scientist">Scientist</string>
+    <string name="spec_soldier">Soldier</string>
+</resources>
